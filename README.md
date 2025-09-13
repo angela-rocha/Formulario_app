@@ -1,6 +1,13 @@
 # Formulario_app
 Formulário que simula o processo de cadastro de um usuário em um app.
 
+<img width="1024" height="720" alt="Cadastro - MeuApp - Google Chrome 13_09_2025 16_32_04" src="https://github.com/user-attachments/assets/7944d28f-df3f-41cf-9e8d-8f2693eac3a1" />
+
+
+## Visualizar
+
+[Acesse o formulário]()
+
 # 📱 Formulário de Cadastro - MeuApp
 
 Este projeto é um **formulário de cadastro estilo aplicativo**, desenvolvido com **HTML, CSS e JavaScript puro**.  
@@ -43,6 +50,7 @@ Ele simula o processo de cadastro de um usuário em um app, incluindo validaçõ
 │── README.md # Documentação do projeto
 
 
-## 📸 Preview
-![preview do formulário](https://dummyimage.com/400x600/6a11cb/ffffff&text=Formulário+Cadastro)
+## Autora
+Feiro com ❤️ por Angela Rocha
+
 
