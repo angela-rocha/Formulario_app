@@ -1,6 +1,8 @@
 # Formulario_app
 Formulário que simula o processo de cadastro de um usuário em um app.
 
+## Prévia
+
 <img width="1024" height="720" alt="Cadastro - MeuApp - Google Chrome 13_09_2025 16_32_04" src="https://github.com/user-attachments/assets/7944d28f-df3f-41cf-9e8d-8f2693eac3a1" />
 
 
