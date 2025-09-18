@@ -42,15 +42,6 @@ Ele simula o processo de cadastro de um usuário em um app, incluindo validaçõ
 - **CSS3** (com animação de entrada e responsividade)
 - **JavaScript** (para validação dos campos)
 
----
-
-## 📂 Estrutura do projeto
-📁 formulario-cadastro
-│── index.html # Estrutura principal
-│── style.css # Estilos do formulário
-│── script.js # Validações do formulário
-│── README.md # Documentação do projeto
-
 
 ## Autora
 Feiro com ❤️ por Angela Rocha
