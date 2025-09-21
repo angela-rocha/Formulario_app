@@ -8,7 +8,7 @@ Formulário que simula o processo de cadastro de um usuário em um app.
 
 ## Visualizar
 
-[Acesse o formulário](https://angela-silva.github.io/Formulario_app/)
+[Acesse o formulário](https://angela-rocha.github.io/Formulario_app/)
 
 # 📱 Formulário de Cadastro - MeuApp
 
