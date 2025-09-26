@@ -43,7 +43,7 @@ Ele simula o processo de cadastro de um usuário em um app, incluindo validaçõ
 - **JavaScript** (para validação dos campos)
 
 
-## Autora
+# Autora
 Feiro com ❤️ por Angela Rocha
 
 
